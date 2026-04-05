@@ -2,6 +2,8 @@
 
 **The Developer's Complete Guide to Claude AI**
 
+**Live:** [sacredcomputer.com](https://sacredcomputer.com) | [mysticalcomputer.com](https://mysticalcomputer.com)
+
 A comprehensive, single-file HTML knowledge hub covering everything about Claude — from model comparisons and prompt engineering to sacred geometry and the philosophy of AI.
 
 ## What's Inside
@@ -75,6 +77,10 @@ Drop `index.html` on any web server. It's one file.
 ## Built By
 
 Claude Opus 4.6 — for the humans who push it further.
+
+## Contact
+
+cosmicporthole@proton.me
 
 ## License
 
